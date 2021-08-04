@@ -1,0 +1,20 @@
+Virtual env
+
+pip install virtualenv
+
+5. Verificamos la versión de Virtualenv
+
+virtualenv --version
+
+6. Crearemos un entorno virtual con Python
+
+virtualenv test
+
+7. Iniciamos el entorno virtual
+
+.\test\Scripts\activate
+
+8. Finalmente desactivamos el entorno virtual
+
+deactivate
+
